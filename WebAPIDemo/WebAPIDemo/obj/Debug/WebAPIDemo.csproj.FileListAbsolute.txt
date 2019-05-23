@@ -1,0 +1,12 @@
+c:\users\kavit m x1\source\repos\WebAPIDemo\WebAPIDemo\bin\Debug\WebAPIDemo.exe.config
+c:\users\kavit m x1\source\repos\WebAPIDemo\WebAPIDemo\bin\Debug\WebAPIDemo.exe
+c:\users\kavit m x1\source\repos\WebAPIDemo\WebAPIDemo\bin\Debug\WebAPIDemo.pdb
+c:\users\kavit m x1\source\repos\WebAPIDemo\WebAPIDemo\bin\Debug\Newtonsoft.Json.dll
+c:\users\kavit m x1\source\repos\WebAPIDemo\WebAPIDemo\bin\Debug\Newtonsoft.Json.xml
+c:\users\kavit m x1\source\repos\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojAssemblyReference.cache
+c:\users\kavit m x1\source\repos\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csproj.CoreCompileInputs.cache
+c:\users\kavit m x1\source\repos\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csproj.CopyComplete
+c:\users\kavit m x1\source\repos\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.exe
+c:\users\kavit m x1\source\repos\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
+c:\users\kavit m x1\source\repos\WebAPIDemo\WebAPIDemo\bin\Debug\SQLDatabase.mdf
+c:\users\kavit m x1\source\repos\WebAPIDemo\WebAPIDemo\bin\Debug\SQLDatabase_log.ldf

@@ -1,0 +1,11 @@
+C:\Users\Kavit M X1\source\repos\WebAPIDemo\WebAPIDemo\bin\Release\SQLDatabase.mdf
+C:\Users\Kavit M X1\source\repos\WebAPIDemo\WebAPIDemo\bin\Release\SQLDatabase_log.ldf
+C:\Users\Kavit M X1\source\repos\WebAPIDemo\WebAPIDemo\bin\Release\WebAPIDemo.exe.config
+C:\Users\Kavit M X1\source\repos\WebAPIDemo\WebAPIDemo\bin\Release\WebAPIDemo.exe
+C:\Users\Kavit M X1\source\repos\WebAPIDemo\WebAPIDemo\bin\Release\WebAPIDemo.pdb
+C:\Users\Kavit M X1\source\repos\WebAPIDemo\WebAPIDemo\bin\Release\Newtonsoft.Json.dll
+C:\Users\Kavit M X1\source\repos\WebAPIDemo\WebAPIDemo\bin\Release\Newtonsoft.Json.xml
+C:\Users\Kavit M X1\source\repos\WebAPIDemo\WebAPIDemo\obj\Release\WebAPIDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kavit M X1\source\repos\WebAPIDemo\WebAPIDemo\obj\Release\WebAPIDemo.csproj.CopyComplete
+C:\Users\Kavit M X1\source\repos\WebAPIDemo\WebAPIDemo\obj\Release\WebAPIDemo.exe
+C:\Users\Kavit M X1\source\repos\WebAPIDemo\WebAPIDemo\obj\Release\WebAPIDemo.pdb
