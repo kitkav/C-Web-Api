@@ -16,4 +16,4 @@ Calling Web Api and storing json data into sql database.
           PRIMARY KEY CLUSTERED ([Id] ASC)
       );
       
-  
+  Run WebAPIDemo.exe inside C-Web-Api/WebAPIDemo/WebAPIDemo/bin/Release/ 
